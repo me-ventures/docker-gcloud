@@ -9,7 +9,3 @@ CMD tar zxf gcloud.tar.gz && ./google-cloud-sdk/install.sh -q
 
 
 
-
-
-
-
